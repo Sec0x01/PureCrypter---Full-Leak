@@ -8,8 +8,7 @@
 
 <div align="center">
   <h2>Authors</h2>
-    PureCoder
-    Me (cracked it lol)
+   Me (cracked it lol)
   <br/>
 </div>
 
